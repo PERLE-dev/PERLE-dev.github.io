@@ -1,0 +1,106 @@
+body {
+    font-family: Arial; 
+    margin: 0;
+}
+
+ 
+  nav {
+    display: flex;
+    height: 70px;
+  }
+
+  .secondary-block{
+      color: white;
+      background: rgb(4, 117,186)
+
+  }
+  a{
+      color: white;
+  }
+
+  h2{
+      margin: 0;
+      padding: 20px 0 20 15px;
+  }
+
+ nav ul{
+      display: flex;
+      margin: 0;
+      padding: 24px;
+      list-style: none;
+
+  }
+
+  nav ul li{
+      margin-left: 15px;
+
+  }
+
+  header{
+      text: center;
+      padding: 40px;
+
+  }
+  .content{
+      max-width: 800;
+      margin: 0 auto;
+
+  }
+
+  h2{
+      color: rgb(4, 117,186);
+  }
+  
+  
+  img{
+      max-width: 150px;
+      border-radius: 75px;
+      box-shadow: 3px 3px 6px rgb(170, 170, 170)
+  }
+
+  section{
+      padding: 40px;
+  }
+
+  #xp ul{
+      margin: 0;
+      padding: 0;
+      list-style: none;
+  }
+
+  #xp li{
+      margin: 10px;
+  }
+
+  #xp aside{
+      float: right;
+  }
+
+  
+
+ 
+
+    
+#education aside{
+    float: right;
+}
+#education ul{
+    list-style: none;
+    padding: 0px;
+
+}
+#education li{
+    padding-bottom: 10px;
+}
+
+
+
+    
+
+
+
+
+
+
+
+
